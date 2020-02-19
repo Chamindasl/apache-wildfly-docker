@@ -7,6 +7,7 @@ Simple docker compose to setup a apache wildfly proxy over http or ajp with netw
 
 ## Access
 http://localhost:81
+You should be able to see wildfly welcome page
 
 ## Configurations
 Change respective Dockerfiles for configuration. 
